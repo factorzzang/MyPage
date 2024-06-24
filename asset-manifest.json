@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74f3b00a.css",
+    "main.js": "/static/js/main.88c4e628.js",
+    "static/js/453.e6395c2d.chunk.js": "/static/js/453.e6395c2d.chunk.js",
+    "static/media/laundry_bold.woff": "/static/media/laundry_bold.103425ced1cd3b97f388.woff",
+    "static/media/laundry_regular.woff": "/static/media/laundry_regular.9eeb227d0da164cd82cc.woff",
+    "index.html": "/index.html",
+    "main.74f3b00a.css.map": "/static/css/main.74f3b00a.css.map",
+    "main.88c4e628.js.map": "/static/js/main.88c4e628.js.map",
+    "453.e6395c2d.chunk.js.map": "/static/js/453.e6395c2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f3b00a.css",
+    "static/js/main.88c4e628.js"
+  ]
+}
